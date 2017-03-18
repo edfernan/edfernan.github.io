@@ -1,0 +1,53 @@
+---
+layout: default
+title: Eddie Fernandez UX
+---
+
+<h1>
+  Eddie Fernandez<br />
+  UX Research and Strategy
+</h1>
+
+<p>I gather the insights companies need to build a successful product or service. With user research and collaborative design-thinking methods, I guide strategy that leads a future worth creating.</p>
+
+{% include newPost.html %}
+
+<h2>My Work</h2>
+
+{% for page in site.pages %} {% if page.title %}
+<div>
+  <h3>{{ page.title }}</h3>
+  <p>{{ page.methods }}</p>
+  <p>{{ page.description }}</p>
+  <a href="{{ page.url | prepend: site.baseurl }}">View Project</a>
+</div>
+{% endif %} {% endfor %}
+
+<!-- Below are content entries for testing -->
+<div>
+  <h3>Video Visits</h3>
+  <p>Survey | User Interviews</p>
+  <p>The research conducted for Video Visits identified potential painpoints for the product team to address in future iterations. This led to a roadmap of improvements that streamline the user flows. Video Visits is a complex product as it mixes service design, and interaction design in a variety of supported platforms.</p>
+  <a href="">View Project</a>
+</div>
+
+<div>
+  <h3>My Doctor Online: Cold and Flu</h3>
+  <p>Participatory Design Sessions</p>
+  <p>The "Cold and Flu" section of My Doctor Online is intended to help patients get a flu vaccination and guide patients on the best way to care for their cold/flu symptoms. This research project helped gather an understanding of how patients utilize Kaiser Permanente resources and provide strategies to reduce the number of patients who seek medical care for symptoms that do not require clinical intervention.</p>
+  <a href="">View Project</a>
+</div>
+
+<div>
+  <h3>My Doctor Online: Diabetes</h3>
+  <p>User Testing | Secondary Research</p>
+  <p>The research project for the diabetes section of My Doctor Online was intended to identify usability issues. However, we ran into recruiting challenges that ended up providing valuable insight into our Spanish-speaking patient base.</p>
+  <a href="">View Project</a>
+</div>
+
+<div>
+  <h3>Summer Search Alumni Board</h3>
+  <p>Design-thinking Workshop</p>
+  <p>Summer Search is a national college success organization that works to close the opportunity gap for high potential low-income students by helping transform what they believe is possible. As chair of the Alumni Board, I co-led a workshop to define our goals and develop approaches to engage our Alumni community.</p>
+  <a href="">View Project</a>
+</div>

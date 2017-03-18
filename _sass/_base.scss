@@ -1,0 +1,42 @@
+// Variables, mixins, and resets will go here.
+
+// Spacing
+$gap0: 0rem;
+$gap05: .5rem;
+$gap1: 1rem;
+$gap15: 1.5rem;
+$gap2: 2rem;
+$gap25: 2.5rem;
+$gap3: 3rem;
+
+// Typography
+$type-light: #F8F9FA;
+$type-dark: #2F3C4E;
+$body-font: 'Rubik', sans-serif;
+$heading-font: 'Oswald', sans-serif;
+$font-size: 1.25em;
+$line-height: $gap15;
+
+// Content
+$max-width: 1200px;
+$content-width: 600px;
+
+// Colors
+$background-color: #F8F9FA;
+$accent-orange: #D75407;
+$accent-green: #007E65;
+
+// Borders
+$border-1: 0.25rem;
+$border-2: 0.5rem;
+$border-3: 1rem;
+$border-4: 2rem;
+
+// Resets
+*,
+*::before,
+*::after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}

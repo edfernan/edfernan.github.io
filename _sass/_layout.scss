@@ -1,0 +1,60 @@
+html {
+  background-color: $background-color;
+  font-size: $font-size;
+}
+
+body {
+  font-family: $body-font;
+  color: $type-dark;
+  line-height: $line-height;
+}
+
+.prose-content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+// Typography
+
+h1, h2, h3, h4 {
+  font-family: $heading-font;
+  line-height: 1.5em;
+}
+
+h1, .text1 {
+  font-size: 2.441rem;
+}
+
+h2, .text2 {
+  font-size: 1.953rem;
+}
+
+h3, .text3 {
+  font-size: 1.563rem;
+}
+
+h4, .text4 {
+  font-size: 1.25rem;
+}
+
+strong {
+  color: $accent-green;
+}
+
+.styled-header, blockquote {
+  border-left-color: $accent-orange;
+  border-left-style: solid;
+  padding-left: $gap1;
+}
+
+.styled-header {
+  border-left-width: $border-2;
+}
+
+blockquote {
+  border-left-width: $border-1;
+}
+
+cite {
+  display: block;
+}
