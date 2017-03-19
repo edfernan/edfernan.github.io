@@ -4,14 +4,20 @@ html {
 }
 
 body {
+  margin: 0;
   font-family: $body-font;
   color: $type-dark;
   line-height: $line-height;
 }
 
-.prose-content {
-  max-width: 600px;
+.prose-width {
   margin: 0 auto;
+  max-width: $prose-width;
+}
+
+.wide-width {
+  margin: 0 auto;
+  max-width: $max-width;
 }
 
 // Typography
@@ -22,19 +28,19 @@ h1, h2, h3, h4 {
 }
 
 h1, .text1 {
-  font-size: 2.441rem;
+  font-size: $header-1;
 }
 
 h2, .text2 {
-  font-size: 1.953rem;
+  font-size: $header-2;
 }
 
 h3, .text3 {
-  font-size: 1.563rem;
+  font-size: $header-3;
 }
 
 h4, .text4 {
-  font-size: 1.25rem;
+  font-size: $header-4;
 }
 
 strong {
@@ -57,4 +63,32 @@ blockquote {
 
 cite {
   display: block;
+}
+
+// Header & Navigation
+header {
+  background-color: $dark-blue;
+}
+
+nav {
+  a {
+    padding: 0 $gap1;
+    padding-bottom: $gap025;
+    color: $type-light;
+    text-decoration: none;
+    &:hover {
+      border-bottom-color: $accent-orange;
+      border-bottom-style: solid;
+      border-bottom-width: $border-1;
+    }
+  }
+  ul {
+    margin: 0;
+    padding: $gap05 0;
+    text-align: right;
+    li {
+      display: inline-block;
+      margin: $gap025 0;
+    }
+  }
 }

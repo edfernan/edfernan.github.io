@@ -2,6 +2,7 @@
 
 // Spacing
 $gap0: 0rem;
+$gap025: .25rem;
 $gap05: .5rem;
 $gap1: 1rem;
 $gap15: 1.5rem;
@@ -12,17 +13,32 @@ $gap3: 3rem;
 // Typography
 $type-light: #F8F9FA;
 $type-dark: #2F3C4E;
+$line-height: $gap15;
 $body-font: 'Rubik', sans-serif;
 $heading-font: 'Oswald', sans-serif;
-$font-size: 1.25em;
-$line-height: $gap15;
 
-// Content
+$font-size: 1.25em;
+$font-size-mobile: 1.125em;
+
+$header-1: 2.441rem;
+$header-2: 1.953rem;
+$header-3: 1.563rem;
+$header-4: 1.25rem;
+
+$header-1-mobile: 2.074rem;
+$header-2-mobile: 1.728rem;
+$header-3-mobile: 1.44rem;
+$header-4-mobile: 1.2rem;
+
+// Widths
+$prose-width: 600px;
 $max-width: 1200px;
-$content-width: 600px;
 
 // Colors
 $background-color: #F8F9FA;
+$light-blue: #125DC9;
+$medium-blue: #0C3870;
+$dark-blue: #2F3C4E;
 $accent-orange: #D75407;
 $accent-green: #007E65;
 
