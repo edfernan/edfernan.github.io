@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="prose-width">
+<section class="prose-width">
 	<h1>Blog</h1>
 	{% for post in site.posts %}
 			<time>{{ post.date | date: "%b %-d, %Y" }}</time>
@@ -10,4 +10,4 @@ layout: default
 	{% endfor %}
 
 	<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-</div>
+</section>

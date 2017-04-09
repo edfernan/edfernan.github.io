@@ -1,2 +1,4 @@
-<h3>New Blog Post</h3>
-<a href="">Name of Article</a>
+<h3 class="zeroed text-4">New Blog Post</h3>
+{% for post in site.posts limit:1 %}
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+{% endfor %}

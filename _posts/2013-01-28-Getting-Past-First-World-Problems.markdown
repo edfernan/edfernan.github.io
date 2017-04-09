@@ -6,7 +6,6 @@ date:   2013-01-28
 summary: Example text to enter as part of the summary of this blog post. Please replace this once you determine it is best to do so. This is only temporary text to help with CSS styling. Have a great day!
 ---
 > “I don’t understand why poor kids, ghetto kids, don’t do startups to get out of poverty”
-> <cite>&mdash; Comment by a startup developer retold by [Joshua Ellis](https://twitter.com/jzellis) in posting [Inspire Talk](https://www.evernote.com/shard/s10/sh/0580fed9-10ec-4ef6-8349-4b260ef8d257/a5264623e4234d6958727c0b67fa9512)</cite>
 
 My peers and friends from college would definitely respond “Your privilege is showing”. Without a doubt all of us display our privilege without realizing it to varying degrees.
 
@@ -33,4 +32,4 @@ If you travel, don’t just be a tourist. - Spend time with locals as much as po
 
 Remember to keep others in mind, because the world could always use change. Always continue to learn not just hard skills, but about the world around us.
 
-Thanks to [Joshua Ellis](https://twitter.com/jzellis) for posting [Inspire Talk](https://www.evernote.com/shard/s10/sh/0580fed9-10ec-4ef6-8349-4b260ef8d257/a5264623e4234d6958727c0b67fa9512), and creating hopefully long term dialogue.
+Thanks to [Joshua Ellis](https://twitter.com/jzellis) for posting [Inspire Talk](https://www.evernote.com/shard/s10/sh/0580fed9-10ec-4ef6-8349-4b260ef8d257/a5264623e4234d6958727c0b67fa9512), and hopefully creating long term dialogue.
