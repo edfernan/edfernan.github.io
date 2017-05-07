@@ -3,37 +3,31 @@ layout: default
 title: Eddie Fernandez UX
 ---
 
-<section class="intro-blurb">
-  <h1 class="centered zeroed">
-    Eddie Fernandez<br />
+<section class="intro">
+  <h1 class="zeroed-header">
+    Eddie Fern&aacute;ndez<br />
     UX Research and Strategy
   </h1>
 
-  <p class="intro-text">I gather the insights companies need to build a successful product or service. With user research and collaborative design-thinking methods, I guide strategy that leads a future worth creating.</p>
+  <p>I gather the insights companies need to build a successful product or service. With user research and collaborative design-thinking methods, I guide strategy that leads a future worth creating.</p>
 
-  <div class="centered">
-    <button class="button">Get in Touch</button>
-  </div>
-</section>
-
-<section class="post-section">
-  <div class="triangle">
-    <div class="post-entry">
-      {% include newPost.html %}
-    </div>
-  </div>
+  <button class="button">Get in Touch</button>
 </section>
 
 <section class="projects">
-  <h2 class="styled-header">My Work</h2>
+  <h2 class="section-header styled-header">My Work</h2>
   {% for page in site.pages %} {% if page.layout == "portEntry" %}
-  <div class="project-entry">
-    <div class="project-entry-content">
-      <h3 class="project-entry-header"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h3>
-      <p class="project-entry-methods">{{ page.methods }}</p>
-      <p class="project-entry-description">{{ page.description }}</p>
-      <a href="{{ page.url | prepend: site.baseurl }}" class="button">View Project</a>
+    <div class="project-entry">
+      <h3 class="project-title"><a href="{{ page.url | prepend: site.baseurl }}" class="no-decoration-dark">{{ page.title }}</a></h3>
+      <div class="project-details">
+        <p class="project-methods"><span class="label">Methods Used</span>{{ page.methods }}</p>
+        <p class="project-description">{{ page.description }}</p>
+      </div>
+      <a href="{{ page.url | prepend: site.baseurl }}" class="project-button">View Project</a>
     </div>
-  </div>
   {% endif %} {% endfor %}
+</section>
+
+<section class="new-post">
+  {% include newPost.html %}
 </section>

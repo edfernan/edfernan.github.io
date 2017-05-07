@@ -11,6 +11,9 @@ body {
 }
 
 // Typography
+p, h1, h2, h3, h4, .text1, .text2, .text3, .text4 {
+  margin-top: 0;
+}
 
 h1, h2, h3, h4 {
   font-family: $heading-font;
@@ -44,193 +47,49 @@ h4, .text4 {
   border-left-width: $border-2;
 }
 
+.zeroed-header {
+  margin: 0;
+  margin-bottom: $gap05;
+}
+
 blockquote {
   border-left-color: $light-blue;
   border-left-width: $border-1;
-  padding: $gap025 $gap1;
-  background-color: $grey;
+  padding: $gap1 $gap1;
+  background-color: $light-grey;
   font-style: italic;
+  p {
+    margin: 0;
+  }
 }
 
 cite {
   display: block;
 }
 
-strong {
+strong, em, .label {
+  font-style: normal;
+  font-weight: bold;
   color: $accent-green;
 }
 
-.zeroed {
-  margin: 0;
-  padding: 0;
+.label {
+  display: block;
 }
 
-.centered {
-  text-align: center;
-}
-
-// CSS Grid Layout
-.grid-wrapper {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-}
-
-.full-grid-width {
-  grid-column-start: 1;
-  grid-column-end: 13;
-  padding: 0 2em;
-}
-
-.prose-width {
-  grid-column-start: 3;
-  grid-column-end: 11;
-  max-width: $prose-width;
-}
-
-.wide-width {
-  max-width: $max-width;
-}
-
-.prose-width, .wide-width {
-  margin: 0 auto;
-}
-
-// Header & Navigation
-header {
-  background-color: $dark-blue;
-}
-
-nav {
-  padding: 0 2em;
-  a {
-    text-align: right;
-    padding: 0 $gap1;
-    padding-bottom: $gap025;
-    color: $type-light;
-    text-decoration: none;
-    &:hover {
-      border-bottom-color: $accent-orange;
-      border-bottom-style: solid;
-      border-bottom-width: $border-1;
-    }
-  }
-  ul {
-    margin: 0;
-    padding: $gap05 0;
-    text-align: middle;
-    li {
-      display: inline-block;
-      margin: $gap025 0;
-      &:nth-child(1) {
-        grid-column-start: 9;
-        grid-column-end: 10;
-      }
-      &:nth-child(2) {
-        grid-column-start: 10;
-        grid-column-end: 11;
-      }
-      &:nth-child(3) {
-        grid-column-start: 11;
-        grid-column-end: 12;
-      }
-      &:nth-child(4) {
-        grid-column-start: 12;
-        grid-column-end: 13;
-      }
-    }
-  }
-}
-
-// Landing Page
-.intro-blurb {
-  grid-column-start: 1;
-  grid-column-end: 9;
-  background-color: $dark-blue;
-  color: $type-light;
-}
-
-.intro-text {
-  margin-top: 0;
-}
-
-.post-section {
-  grid-column-start: 9;
-  grid-column-end: 13;
-  background-color: $dark-blue;
-}
-
-.triangle {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    left: 0px;
-    top: 0px;
-    background: linear-gradient(to left top, $grey 50%, transparent 50%)
-}
-
-.post-entry {
-  position: absolute;
-  max-width: 65%;
-  bottom: 0;
-  right: 0;
-}
-
-.projects {
-  grid-column-start: 1;
-  grid-column-end: 13;
-}
-
-.project-entry {
-  margin: $gap15 0;
-  background-color: $medium-blue;
-  color: $type-light;
-}
-
-.project-entry-content {
-  width: 60%;
-  padding: $gap15 $gap2;
-}
-
-.project-entry-header {
-  margin: 0;
-  a {
-    color: $type-light;
-    text-decoration: none;
-  }
-}
-
-.project-entry-methods {
-  margin: 0;
-}
-
-.project-entry-description {
-
-}
-
-.intro-blurb, .post-entry, .projects {
-  padding: 0 $gap2;
-  padding-bottom: $gap15;
-}
-
-// Button Styling
-
-.button {
-  display: inline-block;
-  border: 0 none;
-  border-radius: 4px;
-  padding: $gap05 $gap15;
-  cursor: pointer;
-  text-align: center;
-  white-space: nowrap;
+.no-decoration-dark, .no-decoration-light{
   text-decoration: none;
-  text-transform: capitalize;
-
-  font-size: $font-size;
-  color: $type-dark;
-  background-color: $grey;
   &:hover {
-    background-color: $dark-grey;
+    text-decoration: underline;
   }
+}
+
+.no-decoration-dark {
+  color: $type-dark;
+}
+
+.no-decoration-light {
+  color: $type-light;
 }
 
 @media (max-width: 599px) {
@@ -253,8 +112,129 @@ nav {
   h4, .text4 {
     font-size: $header-4-mobile;
   }
+}
 
-  .project-description {
-    display: none;
+// Layout: Navigation
+
+header, main {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+nav {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  padding: $gap1 0;
+  p {
+    margin: 0;
   }
+  ul {
+    margin: 0;
+    text-align: right;
+    li {
+      display: inline-block;
+      padding: 0 $gap1;
+    }
+    li:last-child {
+      padding-right: 0;
+    }
+  }
+  a {
+    text-decoration: none;
+    color: $type-dark;
+    padding: 0 $gap05;
+    padding-bottom: $gap025;
+    &:hover {
+      border-bottom: 5px solid $accent-orange;
+    }
+  }
+}
+
+.active {
+  border-bottom: 5px solid $accent-orange;
+}
+
+// Layout: Grid
+
+main {
+  display: grid;
+  grid-template-columns: 1fr minmax(min-content, 600px) 1fr;
+  grid-column-gap: $gap1;
+  grid-row-gap: $gap2;
+}
+
+// Layout: Home Page
+
+.blog, article {
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+
+.intro {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  text-align: center;
+}
+
+.projects {
+  grid-row-start: 2;
+  grid-column-start: 1;
+  grid-column-end: 4;
+}
+
+  .project-entry {
+    display: grid;
+    grid-template-columns: 1fr minmax(min-content, 600px) 1fr;
+    padding-top: $gap1;
+    border-bottom: 1px dotted $light-blue;
+    &:last-child {
+      border-bottom: 0;
+    }
+  }
+
+    .section-header {
+      grid-column-start: 1;
+      grid-column-end: 4;
+    }
+
+    .project-title {
+      grid-column-start: 1;
+      grid-column-end: 2;
+      // display: flex;
+      // align-items: center;
+      padding-right: $gap1;
+    }
+
+    .project-details {
+      grid-column-start: 2;
+      grid-column-end: 3;
+    }
+
+      .project-methods {
+        text-align: center;
+      }
+
+    .project-button {
+      grid-column-start: 3;
+      grid-column-end: 4;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+.new-post {
+  grid-row-start: 3;
+}
+
+// Layout: Portfolio Entries
+
+.entry-header {
+    margin-bottom: $gap025;
+}
+
+article img {
+  display: block;
+  margin: 0 auto;
 }

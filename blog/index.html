@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<section class="prose-width">
-	<h1>Blog</h1>
+<section class="blog">
+	<h1 class="styled-header">Blog</h1>
 	{% for post in site.posts %}
 			<time>{{ post.date | date: "%b %-d, %Y" }}</time>
 			<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
