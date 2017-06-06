@@ -1,12 +1,14 @@
 ---
 layout: portEntry
 title: Cold and Flu
-methods: Participatory Design
-description: The research conducted on the "Cold and Flu" section of the My Doctor Online site helped drive the high-level content strategy and design approach to help address the influx of patients seeking care from Kaiser Permanente during the flu season.
+methods: Participatory Design Workshop
+description: The cold and flu seasons generate an influx of patients seeking care from Kaiser Permanente physicians. I researched ways that we could alleviate that work load through the "Cold and Flu" section of My Doctor Online and provide patients the guidance to determining if they need to be seen.
 permalink: /ColdAndFlu/
 ---
 
 The "Cold and Flu" section of My Doctor Online is intended to help patients get a flu vaccination and guide patients on self-care of their cold or flu. We intended to increase the number of vaccinations and reduce the number of patients who seek medical care for symptoms that do not require clinical involvement.
+
+![Screenshot of Cold and Flu section of My Doctor Online]({{site.url}}/images/projects/ColdAndFlu/ColdAndFluScreen.png)
 
 # At a Glance
 
@@ -28,40 +30,45 @@ The "Cold and Flu" section of My Doctor Online is intended to help patients get 
 
 The "Cold & Flu" portion of My Doctor Online was being redesigned from scratch. In collaboration with the business analyst, we created a design-thinking session that would help us understand the business/clinical impact the product was supposed to have. From there, I was able to lead the workshop gathering knowledge gaps and hypotheses about who would use this product.
 
+<figure>
+  <img src="{{site.url}}/images/projects/ColdAndFlu/DesignThinkingOutcome.jpg" alt="Outcomes of first design-thinking session">
+  <figcaption>Partial outcomes of design-thinking: Blurred sensitive information</figcaption>
+</figure>
+
 ## Developing Study Approach
 
 We were given about a week and a half to put execute the research. We opted to run a participatory design workshops for patients, which allowed us to gather some level of individual feedback while taking advantage of a group setting to save time. We recruited patients who had recently been ill with either the cold or flu. We also made sure to include parents who could both theirs and their children's needs.
 
-*1st Method: Storyboards*
+*1st Method: Storyboards* Participants created storyboards based on their recent experiences of being sick. The storyboards helped participants think of the sequence of events, emotions, actions, problems, and solutions from when they had the cold or flu.
 
-Participants created storyboards based on their recent experiences of being sick. The storyboards helped participants think of the sequence of events, emotions, actions, problems, and solutions from when they had the cold or flu.
+*2nd Method: Knowledge Hunt* Patients were given a chart with three severity levels (low, medium, high) for cold and flu symptoms. Patients chose which most closely represented their previous experience with the cold and flu. They then documented what symptoms defined that severity level and what actions they took based on those symptoms. Afterwards they would fill the two other remaining severity levels with a "hypothetical" illness.
 
-*2nd Method: Knowledge Hunt + Sharing*
+<figure>
+  <img src="{{site.url}}/images/projects/ColdAndFlu/chart1.jpg" alt="First chart example from patient" class="image-third">
+  <img src="{{site.url}}/images/projects/ColdAndFlu/chart2.jpg" alt="Second chart example from patient" class="image-third">
+  <img src="{{site.url}}/images/projects/ColdAndFlu/chart3.jpg" alt="Third chart example from patient" class="image-third">
+  <figcaption>Charts from Participants</figcaption>
+</figure>
 
-Patients were given a chart with three severity levels (low, medium, high) for cold and flu symptoms. Patients chose which most closely represented their previous experience with the cold and flu. They then documented what symptoms defined that severity level and what actions they took based on those symptoms. Afterwards they would fill the two other remaining severity levels with a "hypothetical" illness.
-
-*3rd Method: Group Sharing*
-
-A group discussion was used to gain a better understanding of patients storyboards and their charts. We were able to better understand the variety of behaviors and the rationale behind their decisions. This also helped us come up with some preliminary personas that were used to inform our product teams.
+*3rd Method: Group Sharing* A group discussion was used to gain a better understanding of patients storyboards and their charts. We were able to better understand the variety of behaviors and the rationale behind their decisions. This also helped us come up with some preliminary personas that were used to inform our product teams.
 
 ## Key Research Findings
 
-*Finding 1:* Patients go online for Cold and Flu info when their home remedies aren't working and the illness begins affecting their daily routines. They go online to get clarity about the normalcy of their symptoms, especially when it involves babies and toddlers.
+*Finding 1* Patients go online for Cold and Flu info when their home remedies aren't working and the illness begins affecting their daily routines. They go online to get understand whether the symptoms are normal, especially when it involves babies and toddlers.
 > "Reassurance that this is normal, and that it will pass. What to do if this doesn’t
-> pass. Things to look for. Set my expectations” - Patient
+> pass. Things to look for. Set my expectations” - Patient Quote
 
-*Finding 2:* Patients would rather not call or come in to see a doctor but may feel obligated to do so if their concerns aren't addressed online.
+*Finding 2* Patients would rather not call or come in to see a doctor but may feel obligated to do so if their concerns aren't addressed online.
 
-*Finding 3:* Patients had a wide range of ideas as to what might be "clinically urgent" symptoms and did not feel they had enough transparency from KP about when they should reach out.
+*Finding 3* Patients had a wide range of ideas as to what might be "clinically urgent" symptoms and did not feel they had enough transparency from KP about when they should reach out.
 
 ## Results
 - Informed the overall content approach to address patient needs.
-  - Conduct outreach campaign in two phases, one for the flu vaccinations and prevention. The second phase would be for helping ill patients.
-  - Insure patients know ahead of time they can find the clinical guidelines in the product.
+  - Help patients understand the clinical guidelines for when to seek care.
   - Approach symptoms in a way that would immediately relieve patients of any concerns about symptoms, and provide immediate access to contact information for those who don't fit into "normal" symptoms.
 
 - A key component in decreasing doctor workloads during the flu season.
-- 96% of patients who visit the site, view information about where to get a flu vaccination.
+- 96% of patients who visit the site view information about where to get a flu vaccination.
 - Low bounce rate of 20% on the symptoms section of the website.
 
 ## Learning Lessons

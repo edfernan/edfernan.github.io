@@ -3,31 +3,35 @@ layout: default
 title: Eddie Fernandez UX
 ---
 
-<section class="intro">
+<section class="left-2-col">
   <h1 class="zeroed-header">
-    Eddie Fern&aacute;ndez<br />
-    UX Research and Strategy
+    &iexcl;Hola! I am Eddie Fern&aacute;ndez<br />
   </h1>
 
-  <p>I gather the insights companies need to build a successful product or service. With user research and collaborative design-thinking methods, I guide strategy that leads a future worth creating.</p>
+  <p>I am a <em class="inline-em">UX Researcher and Strategist</em>. I can guide you to the insights needed to build successful products and services. Together we can build consensus across teams and build a future worth creating.</p>
 
-  <button class="button">Get in Touch</button>
+  <p>I want to work with people making an impact for people in our communities. If you have a challenge that needs to get untangled or need someone to connect the dots. Get in touch!</p>
+
+  <div class="email-area">
+    <button id="copy-button" class="btn-primary" data-clipboard-target="#email-box">Copy my email</button>
+    <input id="email-box" value="hola@eduardofernandez.me">
+  </div>
 </section>
 
-<section class="projects">
-  <h2 class="section-header styled-header">My Work</h2>
+<section class="right-col align-center-vert">
+  {% include newPost.html %}
+</section>
+
+<section class="full-col">
+  <h2 class="full-col styled-header">My Work</h2>
   {% for page in site.pages %} {% if page.layout == "portEntry" %}
     <div class="project-entry">
-      <h3 class="project-title"><a href="{{ page.url | prepend: site.baseurl }}" class="no-decoration-dark">{{ page.title }}</a></h3>
-      <div class="project-details">
-        <p class="project-methods"><span class="label">Methods Used</span>{{ page.methods }}</p>
-        <p class="project-description">{{ page.description }}</p>
+      <h3 class="project-title left-col align-center-vert"><a href="{{ page.url | prepend: site.baseurl }}" class="no-decoration-dark">{{ page.title }}</a></h3>
+      <div class="center-col align-center-horiz">
+        <p><span class="label-block">Methods Used</span>{{ page.methods }}</p>
+        <p>{{ page.description }}</p>
       </div>
-      <a href="{{ page.url | prepend: site.baseurl }}" class="project-button">View Project</a>
+      <a href="{{ page.url | prepend: site.baseurl }}" class="btn right-col align-center-vert align-center-horiz">View Project</a>
     </div>
   {% endif %} {% endfor %}
-</section>
-
-<section class="new-post">
-  {% include newPost.html %}
 </section>

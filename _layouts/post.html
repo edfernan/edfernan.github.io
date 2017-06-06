@@ -2,9 +2,8 @@
 layout: default
 ---
 
-<article>
+<article class="full-col">
   <h1 class="styled-header">{{ page.title }}</h1>
-  <p>{{ page.subtilte }}</p>
   <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
   {{ content }}
 </article>

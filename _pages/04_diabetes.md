@@ -1,22 +1,21 @@
 ---
 layout: portEntry
-title: Diabetes
-methods: User Testing | Secondary Research
-description:
+title: Live Well with Diabetes
+methods: User Testing | Secondary Research | Guerilla Interviews
+description: Creating an online product for Spanish-preferred patients comes with its own sets of needs that often are unpredictable. What initially started as research project to do user testing led to research in literature and data that gave us a better understanding of the challenges we would face prior to the "Live well with Diabetes" product launch.
 permalink: /Diabetes/
 ---
-<p>The diabetes section of My Doctor Online was intended to be a comprehensive resource for Spanish-speaking Kaiser Permanente patients. The information would inform patients about their diabetes care at KP in a culturally responsive way and provide them access to important clinical data.</p>
+The diabetes section of My Doctor Online was intended to be a comprehensive resource for Spanish-speaking Kaiser Permanente patients. The information would inform patients about their diabetes care at KP in a culturally responsive way and provide them access to important clinical data.
 
-<p>This research project was intended to identify usability issues before launching the website. However, we ran into recruiting challenges that ended up providing valuable insight into our Spanish-speaking patient base.</p>
+This research project was intended to identify usability issues before launching the website. However, we ran into recruiting challenges that ended up providing valuable insight into our Spanish-speaking patient base.
 
-<img src="http://placehold.it/350x150" alt="Placeholder" class="entry-image">
+![Screenshot of Live Well with Diabetes]({{site.url}}/images/projects/Diabetes/DiabetesScreen.png)
+
 
 ## At a Glance
 
 *Project Team*
-- Lead Researcher: Me
-
-Partners
+- Lead UX Researcher: My role
 - Clinical Lead
 - Business Analyst
 - Designer
@@ -33,7 +32,7 @@ Partners
 - Redesigned the lab result display
 - Provided actionable recommendations for future design iterations
 
-## Determining Research Scope
+## Stakeholder Interviews: Determining Research Scope
 
 This was the first opportunity for the La Salud Permanente team (LSP) to gather direct patient feedback. The Diabetes section was far into the design phase when I joined the team. When meeting with the LSP team, their learning interests were as follows
 
@@ -62,41 +61,36 @@ Due to HIPPA laws, we had to be mindful of our recruiting methods. We approached
 Unfortunately, we had a difficult time finding Spanish-speaking patients who had diabetes and used the internet.
 
 > "I'm sorry. None of my patients responded. Only 1 of the 17 secure messages sent were opened" - Kaiser
-> Permanente clinicians response to see if they had gotten in touch with any patients.
+> Permanente clinician.
 
-## REdeveloping the Study
+## Rethinking the Study
+Our recruiting struggles left me to adjust the needs of our research temporarily. We needed to get a better understanding of why were having a hard time reaching out to Spanish-speakers who used the internet.
 
-Our recruiting struggles left me to modify our initial user testing plans temporarily. We needed to get a better understanding of why were having a hard time reaching Spanish-speakers who used the internet.
+*Secondary Research* We found quantitative research about internet usage in the U.S for Spanish-speaking individuals.
+We also utilized existing Kaiser Permanente research to our benefit.
 
-*Secondary Research*
+*Patient Interviews at Community Health Fairs* We decided to join three community health fairs organized by Kaiser Permanente to speak with patients directly. Our conversations were about internet usage in their daily lives, in particular at home.
 
-- Found quantitative research about internet usage in the U.S for Spanish-speaking individuals.
-- Searched for existing Kaiser Permanente research around our Spanish-speaking community.
+![With Michelle of Health Education at a Community Health Fair]({{site.url}}/images/projects/Diabetes/fieldwork.jpg)
 
-*Patient Interviews at Community Health Fairs*
+*Usability Study* After giving more time to our initial recruiting methods and recruiting through the health fairs we were able to run our initial user testing.
 
-We decided to join three community health fairs organized by Kaiser Permanente to speak with patients directly. Our conversations were about internet usage in their daily lives, in particular at home.
-
-*Usability Study*
-
-After giving more time to our initial recruiting methods, and recruiting through the health fairs we were able to run our initial user testing.
-
-## Key Findings & Outcomes
+## Key Findings
 
 *Secondary Research*
 - KP Spanish-speaking patients are on average less likely to have an active [KP.org](http://kp.org) account.
-- There we known usability issues with the [KP.org](http://kp.org) registration process in Spanish
+- Usability issues were a strong cause of lower rates Spanish registration rates for KP.org accounts
 
 *Community Outreach*
-- Many individuals used the internet (several exclusively on mobile), and almost all patients had someone at home who used the internet.
-- Many patients did not they could have a [KP.org](http://kp.org) account or didn't understand the benefits
+- Many individuals used the internet (several exclusively on mobile) and almost all patients had someone at home who used the internet.
+- Many patients did not know about KP.org accounts or didn't understand the benefits.
 
 *User Testing*
 - Many patients did not realize there was additional content below the fold.
-- Patients were unable to find their lab results
-- Patients did not properly interpret their lab results
+- Patients were unable to find their lab results.
+- Patients did not properly interpret their lab results.
 
-*Main Takeaways*
-- We need to implement more in-person and community outreach touch-points to help Spanish-speaking patients become active on [KP.org](http://kp.org) and to distribute digital products.
-- Find ways we could better support caregivers and patients who need someone to find online information for them.
-- The overall design needed to be simplified and UI copy needed to be more prescriptive
+## Outcomes
+- We implemented more hands-on community touch-points to help Spanish-speaking patients become active on KP.org and to share the Live Well With Diabetes product.
+- Began discovery of methods to facilitate better communication caregiver support between English-dominant clinicians/caregivers and Spanish-dominant patients.
+- The overall design needed to be simplified and the UI copy needed to be more direct.
