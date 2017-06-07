@@ -8,7 +8,7 @@ permalink: /SummerSearchAlumniBoard/
 
 Summer Search is a national college success organization that works to close the opportunity gap for low-income students with high potential by helping transform what they believe is possible. As an alumnus of the Summer Search program, I have been giving back my time and skills as a member of the Bay Area Alumni Board where I am in my second year as the chair. Our main purpose is the find how we can reengage the alumni community with Summer Search and extend the benefits of being an alumnus past college.
 
-![Group Picture from the Summer Search Alumni Board Retreat]({{site.url}}/images/projects/SummerSearch/GroupPicture.jpg)
+![Group Picture from the Summer Search Alumni Board Retreat]({{site.url}}/images/projects/SummerSearch/GroupPicture.JPG)
 
 ## At a Glance
 
