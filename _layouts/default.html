@@ -12,10 +12,6 @@
 	{% if page.url == "/" %}
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.6.0/clipboard.min.js"></script>
 	<script>
-		//	(function(){
-		//	new Clipboard('#copy-button');
-		//})();
-
 		(function(){
 			var clipboard = new Clipboard('#copy-button');
 			var copyButton = document.getElementById('copy-button');
@@ -31,8 +27,6 @@
 			    e.clearSelection();
 			});
 		})();
-
-
 	</script>
 	{% endif %}
 </html>

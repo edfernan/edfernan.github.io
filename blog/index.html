@@ -4,9 +4,11 @@ layout: default
 <section class="full-col blog">
 	<h1 class="styled-header">Blog</h1>
 	{% for post in site.posts %}
+		<div class="blog-entry">
 			<time>{{ post.date | date: "%b %-d, %Y" }}</time>
 			<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 			<p>{{ post.summary }}</p>
+		</div>
 	{% endfor %}
 
 	<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

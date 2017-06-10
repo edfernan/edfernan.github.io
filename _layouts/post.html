@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="full-col">
+  <time class="timestamp">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
   <h1 class="styled-header">{{ page.title }}</h1>
-  <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
   {{ content }}
 </article>
