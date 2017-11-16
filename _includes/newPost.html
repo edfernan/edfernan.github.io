@@ -1,4 +1,4 @@
 <h3 class="zeroed-header text-4">Latest Blog Post</h3>
 {% for post in site.posts limit:1 %}
-    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    <a href="{{ post.url | prepend: site.baseurl }}">Read: &ldquo;{{ post.title }}&rdquo;</a>
 {% endfor %}

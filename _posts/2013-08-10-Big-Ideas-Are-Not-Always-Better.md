@@ -15,6 +15,8 @@ NASA was running into an issue where the crew inside of the launch vehicle, at t
 
 > “If the astronauts can’t read, they can’t do their jobs. If they can’t do their jobs, no more mission.”
 
+![Monitors vibrating make it difficult to read important information]({{site.url}}/images/blog-posts/Big-Ideas-Are-Not-Always-Better/numbers.png)
+
 In response, the Human Factors Division of NASA began to experiment and create prototypes to solve the problem. However many of these ideas would require years of work and resources to fully develop, approximately $100 Million worth. However one small, and extremely clever idea is what provided a solution to the vibration problem. They simply strobed the monitors in perfect sync with the vibration of the crew to make it visible. That solution was simple, effective, and inexpensive (video). That idea was small enough to execute at NASA’s convenience, but innovative enough to small the problem.
 
 ### How $40 Saved NeedFeed 9 Months and $2 Million

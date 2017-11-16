@@ -7,9 +7,11 @@ summary: Example text to enter as part of the summary of this blog post. Please 
 ---
 > “I don’t understand why poor kids, ghetto kids, don’t do startups to get out of poverty”
 
-My peers and friends from college would definitely respond “Your privilege is showing”. Without a doubt all of us display our privilege without realizing it to varying degrees.
+“Your privilege is showing”, a common remark that I would overhear people say in college. Without a doubt all of us display our privilege without realizing it to varying degrees.
 
-Startups require time, energy, and money. Plus since when do startups guarantee success? Many people live in situations that wouldn't permit them to use their time other than to have a steady income and maybe go to school. Some of my personal friends had academic and attendance problems in high school, because they had to support their family financially. A couple of those friends were even the breadwinners of the family, so a startup would be out of the question.
+![We need to split the bill, but the waiter didn't do it for us.]({{site.url}}/images/blog-posts/Getting-Past-First-World-Problems/meme.jpeg)
+
+Startups require time, energy, and **especially** money. Since when do startups guarantee success? Many people live in situations that don't permit them to use their time for much else than to work have food on the table. Some of my personal friends in High School had academic and attendance problems because they had to support their family financially. A couple of those friends were even the breadwinners of the family, so the financial challenges of running a startup would be out of the question.
 
 [Joshua Ellis](https://twitter.com/jzellis) indicated that the tech industry passes innovation as reiterative solutions for “first world problems” such as apps to that “let you hire a private car to get from SFO to Moscone Center, without all that tedious horror of actually hailing a cab”.
 

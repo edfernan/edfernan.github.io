@@ -3,18 +3,18 @@ layout: default
 title: Eddie Fernandez UX
 ---
 
-<section class="left-2-col">
+<section class="left-2-col intro">
   <h1 class="zeroed-header">
     &iexcl;Hola! I am Eddie Fern&aacute;ndez<br />
   </h1>
 
-  <p>I am a <em class="inline-em">UX Researcher and Service Designer</em>. I can guide you to the insights needed to build successful products and services. Together we can build consensus across teams and build a future worth creating.</p>
+  <p>I am a <em class="inline-em">UX Researcher and Service Designer</em>. I help you learn the insights that build valuable products and services. Together we can build consensus across teams and create a future worth creating.</p>
 
-  <p>I want to work with people making an impact for people in our communities. If you have a challenge that needs untangling or need someone to connect the dots. Get in touch!</p>
+  <p>If you have opportunities that make a positive impact for our communities and have a need to untangle complex problems. Get in touch!</p>
 
-  <div class="email-area">
-    <button id="copy-button" class="btn-primary" data-clipboard-target="#email-box">Copy my email</button>
-    <input id="email-box" value="hola@eduardofernandez.me">
+  <div class="intro-buttons">
+    <a href="/about" class="btn btn-primary gap-right">Learn More</a>
+    <a href="/contact" class="btn">Contact Me</a>
   </div>
 </section>
 
@@ -26,7 +26,7 @@ title: Eddie Fernandez UX
   <h2 class="full-col styled-header">My Work</h2>
   {% for page in site.pages %} {% if page.layout == "portEntry" %}
     <div class="project-entry">
-      <h3 class="project-title left-col align-center-vert"><a href="{{ page.url | prepend: site.baseurl }}" class="no-decoration-dark">{{ page.title }}</a></h3>
+      <h3 class="project-title left-col"><a href="{{ page.url | prepend: site.baseurl }}" class="no-decoration-dark">{{ page.title }}</a></h3>
       <div class="center-col align-center-horiz">
         <p><span class="label-block">Methods Used</span>{{ page.methods }}</p>
         <p>{{ page.description }}</p>
