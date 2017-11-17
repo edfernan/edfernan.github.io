@@ -2,7 +2,7 @@
 layout: portEntry
 title: Video Visits
 methods: Qualitative Survey | User Interviews | Service Design
-description: Video Visits is a complex service that cuts across many digital and non-digital touchpoints. I led research to help identify and address pain points that were impacting our connection rates. I worked with different teams to find areas for improvements to help simplify the patient experience.
+description: Video Visits is a complex service that cuts across many digital and non-digital touchpoints. I led research to identify and address pain points that were impacting our connection rates. I worked with different teams to find areas for improvements that would help simplify the patient experience.
 permalink: /VideoVisits/
 ---
 Video Visits is a telehealth service that allows Kaiser Permanente patients get faster access to care using a camera equipped computer or mobile device.

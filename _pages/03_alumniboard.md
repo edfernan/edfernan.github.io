@@ -2,7 +2,7 @@
 layout: portEntry
 title: Summer Search Bay Area Alumni Board
 methods: Interviews | Strategy Workshops
-description: Finding ways to reengage an alumni network from a high school and college success program is challenging. My role as the Alumni Board Chair is to organize a group of individuals and make it happen. The research I conducted showed me how other Alumni Board members wanted to engage and I co-organized a workshop to generate organic involvement towards our mission.
+description: Finding ways to reengage an alumni network can be challenging. My role as the Alumni Board Chair is to organize a group of individuals and make it happen. The research I conducted showed me how other Alumni Board members wanted to be involved and I co-organized a workshop to generate an actionable plan towards our mission.
 permalink: /SummerSearchAlumniBoard/
 ---
 

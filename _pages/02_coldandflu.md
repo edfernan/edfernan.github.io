@@ -2,7 +2,7 @@
 layout: portEntry
 title: Cold and Flu
 methods: Participatory Design Workshop
-description: The cold and flu seasons generate an influx of patients seeking care from Kaiser Permanente physicians. I researched ways that we could alleviate that work load through the "Cold and Flu" section of My Doctor Online and provide patients the guidance to determining if they need to be seen.
+description: The cold and flu seasons generate an influx of patients seeking care from Kaiser Permanente physicians. I researched ways that we could alleviate that work load through the "Cold and Flu" section of My Doctor Online. Our goal was to better provide patients the guidance to determining if they need to be seen by a doctor.
 permalink: /ColdAndFlu/
 ---
 
