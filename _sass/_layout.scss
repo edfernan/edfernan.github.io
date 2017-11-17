@@ -61,6 +61,7 @@ button, input {
 .styled-header, blockquote {
   border-left-color: $accent-orange;
   border-left-style: solid;
+  margin-left: 0;
   padding-left: $gap1;
 }
 
@@ -351,6 +352,22 @@ main {
   margin-top: $gap1;
 }
 
+// Footer
+
+footer {
+  padding-top: $gap3;
+  padding-bottom: $gap3;
+}
+
+.footer-links {
+  border-left: 2px solid $grey;
+  border-right: 2px solid $grey;
+  padding: 0 $gap1;
+  color: $type-dark;
+  text-decoration: none;
+  margin: 0 $gap1;
+}
+
 // Subgrid needed for project entries
 .project-entry {
   display: grid;
@@ -358,9 +375,6 @@ main {
   grid-column-gap: $gap1;
   padding-top: $gap1;
   border-bottom: 2px dotted $light-grey;
-  &:last-child {
-    border-bottom: 0;
-  }
 }
 
     .project-methods {
@@ -409,8 +423,10 @@ article img {
 
 // Blog
 .blog-entry {
-  margin-top: $gap1;
   border-bottom: 2px dotted $light-grey;
+  margin-top: $gap1;
+  padding-top: $gap1;
+  padding-bottom: $gap15;
 }
 
 .timestamp {
@@ -481,10 +497,10 @@ article img {
     .icon {
       display: inline-block;
       position: relative;
-      font-family: "Times", "Times New Roman", "serif", "sans-serif";
       top: .35rem;
       font-size: 2rem;
     }
+
   }
 
   main {

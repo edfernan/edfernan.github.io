@@ -3,10 +3,9 @@ layout: post
 title:  "Embodying the Interface"
 subtitle: "A Cognitive Perspective on Body-Based Interfaces"
 date:   2013-08-17
-summary: Example text to enter as part of the summary of this blog post. Please replace this once you determine it is best to do so. This is only temporary text to help with CSS styling. Have a great day!
 ---
 
-User interfaces have been evolving overtime and as the field of user experience grows, so do the possible interfaces that people use to interact with technology. While there is no set standard for the future, it seems that the technological world wants to move towards body-based interactions. We already have examples of technology that are body-based, for example Microsoft’s Kinect and Leap Motion.
+User interfaces have been changing overtime. As the field of user experience grows, so do the possible interfaces that people interact with. While there is are no set standards for the future, it seems that the technological world wants to move towards body-based interactions. We already have examples of technology that are body-based, for example Microsoft’s Kinect and Leap Motion.
 
 ## The Imaginary Interface
 Nielson Norman Group recently wrote about the “imaginary interface” which was presented by Sean Gustafson, Bernhard Rabe, and Patrick Baudisch. Basically an “imaginary interface” is fully integrated into the body; the example they provide is a mobile phone’s main functionality is conducted through the palm of your hand.

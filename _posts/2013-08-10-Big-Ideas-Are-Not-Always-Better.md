@@ -3,10 +3,9 @@ layout: post
 title:  "Big Ideas Are Not Always Better"
 subtitle: "Thinking small can lead to BIG value"
 date:   2013-08-10
-summary: Example text to enter as part of the summary of this blog post. Please replace this once you determine it is best to do so. This is only temporary text to help with CSS styling. Have a great day!
 ---
 
-Everyone is looking for “THE Big Idea”, the idea that will be so innovative that a business practically runs itself, or an idea that will solve all problems for a certain demographic. By no means should people stop thinking “big”, but people should also start thinking “small”.
+Everyone is looking for "The BIG Idea”, an idea so innovative that a business practically runs itself, or an idea that will solve all problems for a broad audience. By no means should people stop thinking “big”, but people should also start thinking “small”.
 
 ## 2 Examples of Thinking Small
 

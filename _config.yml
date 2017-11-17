@@ -15,9 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Eddie Fernandez UX
 email: fernandez.eduardo91@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Document head meta (for Google search results) and in your feed.xml
-  site description.
+description: Eddie Fernandez is a UX Researcher and Service Designer based in the Bay Area.
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://edfernan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title/
@@ -30,5 +28,5 @@ include: ['_pages']
 sass:
   sass_dir: _sass
   style: compressed
-plugins:
+plugins_dir:
   - jekyll-sitemap
