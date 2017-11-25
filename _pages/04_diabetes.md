@@ -1,8 +1,9 @@
 ---
 layout: portEntry
-title: Live Well with Diabetes
+title: Live Well with Diabetes | User Testing and Secondary Research
+shortTitle: Live Well with Diabetes
 methods: User Testing | Secondary Research | Guerilla Interviews
-description: Creating an online product for Spanish-preferred patients comes with its own sets of needs that often are unpredictable. What initially started as research project to do user testing led to research in literature and data that gave us a better understanding of the challenges we would face prior to the "Live well with Diabetes" product launch.
+description: Creating an online product for Spanish-preferred patients comes with its own sets of needs and challenges that often are unpredictable. What initially started as a user testing project led to deep dive of literature and data analysis. This gave us a better understanding of the challenges we would face prior to the "Live well with Diabetes" product launch.
 permalink: /Diabetes/
 ---
 The diabetes section of My Doctor Online was intended to be a comprehensive resource for Spanish-speaking Kaiser Permanente patients. The information would inform patients about their diabetes care at KP in a culturally responsive way and provide them access to important clinical data.
