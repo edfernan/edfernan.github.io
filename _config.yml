@@ -17,7 +17,7 @@ title: Eddie Fernandez | UX Research and Service Design
 email: hola@eduardofernandez.me
 description: Eddie Fernandez is a UX Researcher and Service Designer based in the Bay Area.
 baseurl: # the subpath of your site, e.g. /blog
-url: "https://edfernan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://eduardofernandez.me" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title/
 twitter_username: fernandez_ux
 github_username:  edfernan
