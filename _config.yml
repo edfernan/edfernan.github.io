@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Eddie Fernandez UX
-email: fernandez.eduardo91@gmail.com
+title: Eddie Fernandez | UX Research and Service Design
+email: hola@eduardofernandez.me
 description: Eddie Fernandez is a UX Researcher and Service Designer based in the Bay Area.
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://edfernan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
