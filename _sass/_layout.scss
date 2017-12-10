@@ -74,6 +74,10 @@ button, input {
   margin-bottom: $gap05;
 }
 
+.zero {
+  margin: 0;
+}
+
 
 li {
   margin-bottom: $gap025;
@@ -159,8 +163,20 @@ time, .date {
   display: none;
 }
 
+.gap-top {
+  margin-top: $gap1;
+}
+
 .gap-right {
   margin-right: $gap1;
+}
+
+.gap-bottom {
+  margin-bottom: $gap1;
+}
+
+.gap-bottom-large {
+  margin-bottom: $gap3;
 }
 
 // Components
@@ -228,6 +244,15 @@ input, textarea {
 
 textarea {
   min-height: 8ch;
+}
+
+ul {
+  padding-left: 1rem;
+}
+
+li {
+  padding-left: 1rem;
+  max-width: 59ch;
 }
 
 // Layout: Basic Width Settings
