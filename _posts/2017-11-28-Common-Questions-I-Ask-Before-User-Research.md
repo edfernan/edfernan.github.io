@@ -6,7 +6,7 @@ date:   2017-11-28
 
 Research requests often come in the form of "we need user testing on this product and we need it by this time". Product teams are looking to  understand their product and get that info fast. Yet, many times a clear vision about why they need research doesn't exist. Sometimes the person who requests the research isn't who needs or wants the research.
 
-Here are a few questions I use before creating a user research plan and what I look for when getting background information.
+Here are a few questions I ask before creating a user research plan and what I look for when getting background information.
 
 ## "What are you trying to learn about this product/service?" or "What concerns are there about this product/service?"
 
