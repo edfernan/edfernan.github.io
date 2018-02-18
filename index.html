@@ -3,14 +3,14 @@ layout: default
 title: Eddie Fernandez UX Researcher and Service Designer
 description: Eddie Fernandez is a UX Researcher and Service Designer based in the Bay Area.
 ---
-<section class="full-col align-center-horiz">
+<section class="full-col align-center-horiz max-text-width">
   <h1 class="zeroed-header">
-    &iexcl;Hola! I am Eddie Fern&aacute;ndez<br />
+    &iexcl;Hola! I help put yourself into your user’s shoes.<br />
   </h1>
 
-  <p>I am a <em class="inline-em">UX Researcher and Service Designer</em>. I'm someone who thrives in understanding large and messy problems. My work leads to insights that build valuable products and services. Together we can build consensus across teams and create a future worth creating.</p>
+  <p>As a <em class="inline-em">UX Researcher and Service Designer</em>, I help organizations get clarity of their most complex and messiest problems. My work uncovers important insights that lead to products and services that bring people value. Together we can work to create consensus across teams and build a future worth creating.</p>
 
-  <p>If you make a positive impact for our communities and need someone to help connect the dots. Get in touch!</p>
+  <a href="{{ "/about" | prepend: site.baseurl }}">Learn more about me</a>
 </section>
 
 <section class="full-col align-center-horiz">
@@ -25,32 +25,3 @@ description: Eddie Fernandez is a UX Researcher and Service Designer based in th
     </div>
   {% endif %} {% endfor %}
 </section>
-
-<!--
-<section class="left-2-col intro">
-  <h1 class="zeroed-header">
-    &iexcl;Hola! I am Eddie Fern&aacute;ndez<br />
-  </h1>
-
-  <p>I am a <em class="inline-em">UX Researcher and Service Designer</em>. I'm someone who thrives in understanding large and messy problems. My work leads to insights that build valuable products and services. Together we can build consensus across teams and create a future worth creating.</p>
-
-  <p>If you make a positive impact for our communities and need someone to help connect the dots. Get in touch!</p>
-</section>
-
-<section class="right-col align-center-vert">
-  {% include newPost.html %}
-</section>
-
-<section class="full-col">
-  <h2 class="full-col styled-header">My Work</h2>
-  {% for page in site.pages %} {% if page.layout == "portEntry" %}
-    <div class="project-entry">
-      <h3 class="project-title left-col"><a href="{{ page.url | prepend: site.baseurl }}" class="no-decoration-dark">{{ page.shortTitle }}</a></h3>
-      <div class="center-col align-center-horiz">
-        <p><span class="label-block">Methods Used</span>{{ page.methods }}</p>
-        <p>{{ page.description }}</p>
-      </div>
-      <a href="{{ page.url | prepend: site.baseurl }}" class="btn right-col align-center-vert align-center-horiz">View Project</a>
-    </div>
-  {% endif %} {% endfor %}
-</section> -->
