@@ -47,7 +47,7 @@ We wanted to identify what contributed to unsuccessful Video Visits. To increase
 The team had been struggling for over a year to improve connectivity rates. I suggested that we learn about the end-to-end experience and consolidate findings in one data source. This would give each team direction on how to do further analysis.
 
 *Method: User Interviews*
-I aimed to speak with patients until we reached data saturation. As a result, two of my colleagues helped conduct interviews to maximize our overall reach. In total, we interviewed 100 patients who recently had an unsuccessful appointment and interviewed them about their end-to-end experience.
+I interviewed patients who recently had an unsuccessful appointment and interviewed them about their end-to-end experience. Because of the complexity of the service, I aimed to speak with patients until we reached data saturation. As a result, two of my colleagues helped conduct interviews to maximize our overall reach.
 
 ## Key Research Findings
 - Onboarding touchpoints did not always reach patients, resulting in them not know how to setup Video Visits.

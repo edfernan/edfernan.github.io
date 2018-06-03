@@ -248,7 +248,7 @@ textarea {
 }
 
 ul {
-  padding-left: 1rem;
+  padding: 0 5rem;
 }
 
 li {
@@ -275,6 +275,7 @@ header {
   margin: 0 auto;
   z-index: 100;
   background-color: $background-color;
+  border-top: 0.25rem solid $accent-green;
   border-bottom: 1px inset $light-grey;
 }
 
@@ -287,6 +288,8 @@ nav {
   display: grid;
   grid-template-columns: 1fr 2fr;
   padding: $gap1 0;
+  border-bottom: 1px inset #EAEBEB;
+  background-color: $background-color;
   p {
     margin: 0;
   }
@@ -295,6 +298,8 @@ nav {
   }
   .nav-options {
     margin: 0;
+    padding-left: 1rem;
+    padding-right: 0;
     text-align: right;
     li {
       display: inline-block;
@@ -489,6 +494,11 @@ article img {
 
   h4, .text4 {
     font-size: $header-4-mobile;
+  }
+
+  ul {
+    padding: 0;
+    padding-left: 1rem;
   }
 
   // Grid Adjustment
