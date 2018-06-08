@@ -28,7 +28,7 @@ The research project was intended to help further streamline the Video Visits ex
 - Instructions were emailed to all patients within 24 hours of appointment.
 - A service design blueprint that captures quantitative and qualitative data for all teams to reference.
 - Findings became a key factor in renaming an app that contains Video Visits from "KP Preventive Care" to "My Doctor Online"
-- Month-to-month connection rate improved by 3%.
+- Month-to-month connection rate improved by 5%.
 
 ## Stakeholder Interviews: Determining Research Scope
 I met with the Video Visits team to learn what they hoped to learn and what decisions I would be informing. I requested quantitative data to get a sense of what was happening with Video Visits. From the discussions and the analysis of the data I learned&hellip;
