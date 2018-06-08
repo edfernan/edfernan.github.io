@@ -65,7 +65,7 @@ Unfortunately, we had a difficult time finding Spanish-speaking patients who had
 > Permanente clinician.
 
 ## Rethinking the Study
-Our recruiting struggles left me to adjust the needs of our research temporarily. We needed to get a better understanding of why were having a hard time reaching out to Spanish-speakers who used the internet.
+Our recruiting struggles left me to adjust the needs of our research temporarily. We needed to get a better understanding of why were having a hard time reaching out to Spanish-speakers who had a KP.org account.
 
 *Secondary Research* We found quantitative research about internet usage in the U.S for Spanish-speaking individuals.
 We also utilized existing Kaiser Permanente research to our benefit.
