@@ -1,12 +1,13 @@
 ---
 layout: portEntry
-title: Cold and Flu
+title: Cold and Flu | Participatory Design
+shortTitle: Cold and Flu
 methods: Participatory Design Workshop
-description: The cold and flu seasons generate an influx of patients seeking care from Kaiser Permanente physicians. I researched ways that we could alleviate that work load through the "Cold and Flu" section of My Doctor Online and provide patients the guidance to determining if they need to be seen.
+description: The cold and flu seasons generate an influx of patients seeking care from Kaiser Permanente physicians. I did user research to learn how we could reduce physician work by directing patients to the "Cold and Flu" section of My Doctor Online. Our goal was to better provide patients the guidance to determining if they need to be seen by a doctor.
 permalink: /ColdAndFlu/
 ---
 
-The "Cold and Flu" section of My Doctor Online is intended to help patients get a flu vaccination and guide patients on self-care of their cold or flu. We intended to increase the number of vaccinations and reduce the number of patients who seek medical care for symptoms that do not require clinical involvement.
+The ["Cold and Flu" section](https://mydoctor.kaiserpermanente.org/ncal/coldflu/#/feelbetter) of My Doctor Online is intended to help patients get a flu vaccination and guide patients on self-care of their cold or flu. We intended to increase the number of vaccinations and reduce the number of patients who seek medical care for symptoms that do not require clinical involvement.
 
 ![Screenshot of Cold and Flu section of My Doctor Online]({{site.url}}/images/projects/ColdAndFlu/ColdAndFluScreen.png)
 
@@ -23,7 +24,7 @@ The "Cold and Flu" section of My Doctor Online is intended to help patients get 
 
 *Outcomes*
 - A key factor in decreasing doctor workloads during the 2016 flu season.
-- 96% of patients who visited the vaccination padding-left of the website found where to get a flu vaccination.
+- 80%+ of patients who visited the vaccination page found out where to get a flu vaccination.
 - Low bounce rate of 20% on the cold and flu symptoms section of the website.
 
 ## Determining Research Scope
@@ -56,11 +57,11 @@ We were given about a week and a half to put execute the research. We opted to r
 
 *Finding 1* Patients go online for Cold and Flu info when their home remedies aren't working and the illness begins affecting their daily routines. They go online to get understand whether the symptoms are normal, especially when it involves babies and toddlers.
 > "Reassurance that this is normal, and that it will pass. What to do if this doesn’t
-> pass. Things to look for. Set my expectations” - Patient Quote
+> pass. Things to look for. Set my expectations” - Participant
 
-*Finding 2* Patients would rather not call or come in to see a doctor but may feel obligated to do so if their concerns aren't addressed online.
+*Finding 2* Patients would rather not call or come in to see a doctor but may feel obligated to do so if their concerns aren't addressed through their own research.
 
-*Finding 3* Patients had a wide range of ideas as to what might be "clinically urgent" symptoms and did not feel they had enough transparency from KP about when they should reach out.
+*Finding 3* Patients had a wide ranging ideas as to what symptoms were "clinically urgent" symptoms and did not feel they had enough transparency from KP about when they should reach out.
 
 ## Results
 - Informed the overall content approach to address patient needs.
@@ -72,4 +73,4 @@ We were given about a week and a half to put execute the research. We opted to r
 - Low bounce rate of 20% on the symptoms section of the website.
 
 ## Learning Lessons
-The participatory design methods used didn't give us any quick and easy way to accommodate a large remote audience. We unfortunately had to select a small group of people from the team to observe. Given the constraints we had, we were able to gather quality information for the product team and put them on a path to a successful product.
+The participatory design methods used didn't give us an easy way for team members to observe remotely. This created a larger reliance on presented information vs. first-hand observations, which dilutes team's understanding of the subject matter. However with the constraints we had, we were able to gather useful information for the product team and guide them on a path to a successful product.

@@ -1,13 +1,16 @@
 ---
 layout: default
+description: A blog with perspectives on finding value in products and services, UX Research, Service Design and more.
 ---
-<section class="full-col blog">
+<section class="full-col blog align-center-horiz">
 	<h1 class="styled-header">Blog</h1>
 	{% for post in site.posts %}
+		<div class="blog-entry">
 			<time>{{ post.date | date: "%b %-d, %Y" }}</time>
 			<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-			<p>{{ post.summary }}</p>
+			{{ post.excerpt }}
+			<a href="{{ post.url | prepend: site.baseurl }}">Continue Reading &#x2192;</a>
+		</div>
 	{% endfor %}
-
-	<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+	<a href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe via RSS</a>
 </section>

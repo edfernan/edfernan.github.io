@@ -6,33 +6,7 @@
 		{% include header.html %}
 		<main>
 			{{ content }}
-			{% include footer.html %}
 		</main>
+		{% include footer.html %}
 </body>
-	{% if page.url == "/" %}
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.6.0/clipboard.min.js"></script>
-	<script>
-		//	(function(){
-		//	new Clipboard('#copy-button');
-		//})();
-
-		(function(){
-			var clipboard = new Clipboard('#copy-button');
-			var copyButton = document.getElementById('copy-button');
-			clipboard.on('success', function(e) {
-			    copyButton.innerHTML = "Copied: Now Paste!";
-					copyButton.classList.remove("btn-primary");
-					copyButton.classList.add("btn-ghost");
-					setTimeout(function(){
-						copyButton.classList.remove("btn-ghost");
-						copyButton.classList.add("btn-primary");
-						copyButton.innerHTML = "Copy my email";
-					}, 2500);
-			    e.clearSelection();
-			});
-		})();
-
-
-	</script>
-	{% endif %}
 </html>

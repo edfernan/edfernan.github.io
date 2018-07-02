@@ -1,8 +1,9 @@
 ---
 layout: portEntry
-title: Live Well with Diabetes
+title: Live Well with Diabetes | User Testing and Secondary Research
+shortTitle: Live Well with Diabetes
 methods: User Testing | Secondary Research | Guerilla Interviews
-description: Creating an online product for Spanish-preferred patients comes with its own sets of needs that often are unpredictable. What initially started as research project to do user testing led to research in literature and data that gave us a better understanding of the challenges we would face prior to the "Live well with Diabetes" product launch.
+description: Creating an online product for Spanish-preferred patients comes with its own sets of needs and challenges that often are unpredictable. What initially started as a user testing project led to deep dive of literature and data analysis. This gave us a better understanding of the challenges we would face prior to the "Live well with Diabetes" product launch.
 permalink: /Diabetes/
 ---
 The diabetes section of My Doctor Online was intended to be a comprehensive resource for Spanish-speaking Kaiser Permanente patients. The information would inform patients about their diabetes care at KP in a culturally responsive way and provide them access to important clinical data.
@@ -64,7 +65,7 @@ Unfortunately, we had a difficult time finding Spanish-speaking patients who had
 > Permanente clinician.
 
 ## Rethinking the Study
-Our recruiting struggles left me to adjust the needs of our research temporarily. We needed to get a better understanding of why were having a hard time reaching out to Spanish-speakers who used the internet.
+Our recruiting struggles left me to adjust the needs of our research temporarily. We needed to get a better understanding of why were having a hard time reaching out to Spanish-speakers who had a KP.org account.
 
 *Secondary Research* We found quantitative research about internet usage in the U.S for Spanish-speaking individuals.
 We also utilized existing Kaiser Permanente research to our benefit.

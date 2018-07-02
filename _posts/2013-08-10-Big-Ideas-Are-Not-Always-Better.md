@@ -3,10 +3,9 @@ layout: post
 title:  "Big Ideas Are Not Always Better"
 subtitle: "Thinking small can lead to BIG value"
 date:   2013-08-10
-summary: Example text to enter as part of the summary of this blog post. Please replace this once you determine it is best to do so. This is only temporary text to help with CSS styling. Have a great day!
 ---
 
-Everyone is looking for “THE Big Idea”, the idea that will be so innovative that a business practically runs itself, or an idea that will solve all problems for a certain demographic. By no means should people stop thinking “big”, but people should also start thinking “small”.
+Everyone is looking for "The BIG Idea”, an idea so innovative that a business practically runs itself, or an idea that will solve all problems for a broad audience. By no means should people stop thinking “big”, but people should also start thinking “small”.
 
 ## 2 Examples of Thinking Small
 
@@ -14,6 +13,8 @@ Everyone is looking for “THE Big Idea”, the idea that will be so innovative 
 NASA was running into an issue where the crew inside of the launch vehicle, at the time simulated, were unable to see their monitors due the vibrations caused by the final rocket booster sequence. As the Gizmodo article states
 
 > “If the astronauts can’t read, they can’t do their jobs. If they can’t do their jobs, no more mission.”
+
+![Monitors vibrating make it difficult to read important information]({{site.url}}/images/blog-posts/Big-Ideas-Are-Not-Always-Better/numbers.png)
 
 In response, the Human Factors Division of NASA began to experiment and create prototypes to solve the problem. However many of these ideas would require years of work and resources to fully develop, approximately $100 Million worth. However one small, and extremely clever idea is what provided a solution to the vibration problem. They simply strobed the monitors in perfect sync with the vibration of the crew to make it visible. That solution was simple, effective, and inexpensive (video). That idea was small enough to execute at NASA’s convenience, but innovative enough to small the problem.
 

@@ -13,19 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Eddie Fernandez UX
-email: fernandez.eduardo91@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Document head meta (for Google search results) and in your feed.xml
-  site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+title: Eddie Fernandez | UX Research and Service Design
+email: hola@eduardofernandez.me
+description: Eddie Fernandez is a UX Researcher and Service Designer based in the Bay Area.
+baseurl: # the subpath of your site, e.g. /blog
+url: "https://eduardofernandez.me" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title/
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: fernandez_ux
+github_username:  edfernan
 
 # Build settings
 markdown: kramdown
 include: ['_pages']
 sass:
   sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-sitemap

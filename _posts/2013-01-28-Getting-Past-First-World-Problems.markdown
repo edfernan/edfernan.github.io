@@ -3,17 +3,18 @@ layout: post
 title:  "Getting Past First World Problems"
 subtitle: "Our Privilege is Showing"
 date:   2013-01-28
-summary: Example text to enter as part of the summary of this blog post. Please replace this once you determine it is best to do so. This is only temporary text to help with CSS styling. Have a great day!
 ---
 > “I don’t understand why poor kids, ghetto kids, don’t do startups to get out of poverty”
 
-My peers and friends from college would definitely respond “Your privilege is showing”. Without a doubt all of us display our privilege without realizing it to varying degrees.
+“Your privilege is showing”, a common remark that I would overhear people say in college. Without a doubt all of us display our privilege without realizing it to varying degrees.
 
-Startups require time, energy, and money. Plus since when do startups guarantee success? Many people live in situations that wouldn't permit them to use their time other than to have a steady income and maybe go to school. Some of my personal friends had academic and attendance problems in high school, because they had to support their family financially. A couple of those friends were even the breadwinners of the family, so a startup would be out of the question.
+![We need to split the bill, but the waiter didn't do it for us.]({{site.url}}/images/blog-posts/Getting-Past-First-World-Problems/meme.jpeg)
+
+Startups require time, energy, and **especially** money. Since when do startups guarantee success? Many people aren't able to use their time for much else than to make ends meet. Some of my personal friends in high school and college had academic/attendance problems because they had to support their family financially. A couple of those friends were even the breadwinners of the family, so the financial challenges of running a startup would be out of the question.
 
 [Joshua Ellis](https://twitter.com/jzellis) indicated that the tech industry passes innovation as reiterative solutions for “first world problems” such as apps to that “let you hire a private car to get from SFO to Moscone Center, without all that tedious horror of actually hailing a cab”.
 
-I agree, we avoid bigger societal problems, because it’s not the “cool” app, we don’t understand, or even empathize. Unfortunately the lack of empathy leads to an out of sight, out of mind mentality where our ideas are boxed into “oh man wouldn’t it be cool if…” as opposed to “what can we do to serve and create change?”.
+We avoid bigger societal problems, because it’s not the “cool”, we don’t understand, or even empathize. Unfortunately the lack of empathy leads to an out of sight, out of mind mentality.
 As professionals (UX or not) who are supposedly innovating and creating disruptive products, I wonder how much progress we have created in communities that are most in need? How can we claim to have empathy, if many of us don’t even take a moment to listen to those in true need?
 
 ## Ways to Step Out of the “First World Problems” Mindset
