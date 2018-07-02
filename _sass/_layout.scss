@@ -333,6 +333,11 @@ article img {
   width: calc(100%/3);
 }
 
+// Blog Page
+.blog-entry {
+  margin-bottom: $gap3;
+}
+
 // Layout: Mobile
 
 @media (max-width: 900px) {
