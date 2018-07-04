@@ -271,7 +271,6 @@ header {
   top: 0;
   left: 0;
   right: 0;
-  height: 70px;
   margin: 0 auto;
   z-index: 100;
   background-color: $background-color;
@@ -280,7 +279,6 @@ header {
 }
 
 main {
-  // margin-top: 90px;
   margin-top: 6em;
 }
 
@@ -288,7 +286,6 @@ nav {
   display: grid;
   grid-template-columns: 1fr 2fr;
   padding: $gap1 0;
-  border-bottom: 1px inset #EAEBEB;
   background-color: $background-color;
   p {
     margin: 0;
@@ -419,10 +416,6 @@ footer {
 
 .project {
   padding-bottom: $gap15;
-}
-
-.project-title {
-
 }
 
 // Layout: Portfolio Entries
