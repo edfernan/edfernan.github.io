@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Reading Between the Lines: Common Questions I Ask Before User Research"
+description: Questions I ask before creating a user research plan to ensure I'm creating maximum impact.
 date:   2017-11-28
 ---
 

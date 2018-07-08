@@ -2,6 +2,7 @@
 layout: post
 title:  "Big Ideas Are Not Always Better"
 subtitle: "Thinking small can lead to BIG value"
+description: The benefits of testing small ideas to get avoid expensive mistakes.
 date:   2013-08-10
 ---
 

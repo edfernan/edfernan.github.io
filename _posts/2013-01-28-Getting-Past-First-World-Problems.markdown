@@ -2,6 +2,7 @@
 layout: post
 title:  "Getting Past First World Problems"
 subtitle: "Our Privilege is Showing"
+description: Why creating your own start-up isn't simple as it seems and how to be more mindful of underserved communities.
 date:   2013-01-28
 ---
 > “I don’t understand why poor kids, ghetto kids, don’t do startups to get out of poverty”

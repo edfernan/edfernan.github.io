@@ -2,6 +2,7 @@
 layout: post
 title:  "Embodying the Interface"
 subtitle: "A Cognitive Perspective on Body-Based Interfaces"
+description: Traditional UIs have been focused on the interaction between a machine and a person, but could body-based interfaces be the future?
 date:   2013-08-17
 ---
 
