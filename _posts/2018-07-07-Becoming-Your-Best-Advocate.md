@@ -12,7 +12,7 @@ Being your own best advocate is hard. When people don't get to see your work day
 
 How do you find your voice so you can convince people that you're worth the chance? Well, I've been trying to figure that out myself!
 
-## Research Yourself Through Others
+## Research Yourself Through Direct Colleagues
 
 I spent a lot of time upfront reflecting. I didn't have much success at first and was grasping at straws for what made me unique.
 
@@ -31,17 +31,15 @@ The two questions were...
 
 These two questions helped me understand what I bring to the table and focused where I wanted to grow.
 
-He knows my work and sees my impact from a different vantage point. There's no "imposter syndrome" to hold him back.
+He knows my work and sees my impact from a different vantage point. There's no "imposter syndrome" to hold him back from dismissing skills and accomplishments that actually do matter. He helped me see things I didn't appreciate and was overlooking.
 
-Ask your colleagues, friends, or anyone that knows your work! They'll help you see things you don't appreciate about yourself or often overlook.
-
-## First-Impressions Matter
+## Research Your Work Through Peers
 
 Only in this past year did I start to really meet people in tech. I wanted to learn more about others and meet people from outside of my bubble.
 
 One-on-one conversations with new people have become a useful tool. Not only does it forge relationships with your peers, but it gives you a glimpse into how your work and skills resonate with others.
 
-When both of you are sharing stories about the successes and challenges of your work. Your conversation will often pinpoint the most interesting challenges and skills you’ve both developed. Listening deeply to these conversations will give you a better idea of what you need to highlight.
+When both of you are sharing stories about the successes and challenges of your work, your conversation will often pinpoint the most interesting skills you’ve both developed. Listening deeply to these conversations will give you a better idea of what you need to highlight.
 
 These people didn't know me, nor have they seen my work. Yet they extracted meaningful nuggets from stories that I might not have been able to do as effectively on my own.
 
