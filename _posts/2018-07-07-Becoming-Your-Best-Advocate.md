@@ -12,7 +12,7 @@ Being your own best advocate is hard. When people don't see your work day-to-day
 
 How do you find your voice to convince people that you're worth the chance? Well, I've been trying to figure that out myself!
 
-## Research Yourself Through Direct Colleagues
+## Research Yourself Through Colleagues
 
 I spent a lot of time upfront reflecting. I didn't have much success at first and was grasping at straws for what made me unique.
 
