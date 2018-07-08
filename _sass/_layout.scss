@@ -275,7 +275,6 @@ header {
   z-index: 100;
   background-color: $background-color;
   border-top: 0.25rem solid $accent-green;
-  border-bottom: 1px inset $light-grey;
 }
 
 main {
@@ -451,6 +450,8 @@ article img {
 // Blog Page
 .blog-entry {
   margin-bottom: $gap3;
+}
+
 .extras {
   position: sticky;
   top: 40vh;
