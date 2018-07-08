@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Becoming Your Best Advocate"
-description: A couple of steps that will you better advocate for yourself as a professional.
+description: A couple of steps that will you help you learn what makes you unique as a professional.
 date:   2018-07-07
 image: https://eduardofernandez.me/images/blog-posts/Becoming-Your-Best-Advocate/carl-heyerdahl-181868-unsplash.jpg
 ---
