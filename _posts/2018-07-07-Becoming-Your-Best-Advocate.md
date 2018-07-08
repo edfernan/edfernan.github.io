@@ -3,7 +3,7 @@ layout: post
 title:  "Becoming Your Best Advocate"
 description: A couple of steps that will you better advocate for yourself as a professional.
 date:   2018-07-07
-image: https://www.eduardofernandez.me/images/blog-posts/Becoming-Your-Best-Advocate/carl-heyerdahl-181868-unsplash.jpg
+image: https://eduardofernandez.me/images/blog-posts/Becoming-Your-Best-Advocate/carl-heyerdahl-181868-unsplash.jpg
 ---
 
 Your work speaks for itself. People advocate for you because they understand your value and will refer you when you’re looking for new opportunities. Unfortunately, you don't always have someone to vouch for you and that puts it on you to sell yourself.
