@@ -283,6 +283,7 @@ nav {
   grid-template-columns: 1fr 2fr;
   padding: $gap1 0;
   background-color: $background-color;
+  border-bottom: 1px solid $light-grey;
   p {
     margin: 0;
   }
