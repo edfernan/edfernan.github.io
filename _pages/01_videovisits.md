@@ -17,7 +17,7 @@ The research project was intended to help further streamline the Video Visits ex
 *Project Team*
 - My role: Lead Researcher
 - Two user researchers providing support
-- A cross-team group responsible for various service touchpoints
+- A cross-team group responsible for various service touchpoints.
 
 *Goal of Project*
 - Understand what problems users experience and why those issues contribute to connectivity issues.
@@ -73,7 +73,7 @@ Based on the user interviews, I was able to produce interactive journey maps for
 </figure>
 
 ## Outcomes
-- Month-to-month connection rate improved by 3%.
+- Month-to-month connection rate improved by 5%.
 - The findings led to the implementation of an email being sent to all patients 24 hours before their appointment. This email gives them direct access points to the web app or mobile app for Video Visits. Previously, not all patients would receive email instructions.
 - Findings from this research became a key factor in rebranding the "KP Preventive Care" app to "My Doctor Online".
 - High-level service blue print that captures existing data, group knowledge, and standing questions.
