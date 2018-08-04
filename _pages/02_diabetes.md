@@ -49,7 +49,7 @@ Given the product team was looking primarily for user testing feedback, I focuse
 
 *Example*
 
-A doctor refers a patient to the website to view their A1C labe results after they have had a blood sugar analysis completed.
+A doctor refers a patient to the website to view their A1C lab results after they have had a blood sugar analysis completed.
 
 ## Recruiting Struggles
 
