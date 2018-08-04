@@ -18,7 +18,7 @@ description: Eddie Fernandez is a UX Researcher and Service Designer based in th
   <h1 class="styled-header">My Work</h1>
   {% for page in site.pages %} {% if page.layout == "portEntry" %}
     <div class="project">
-      <h3 class="project-title"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.shortTitle }}</a></h3>
+      <h2 class="project-title"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.shortTitle }}</a></h2>
       <div class="">
         <p><span class="label-block">Methods Used</span>{{ page.methods }}</p>
         <p>{{ page.description }}</p>
