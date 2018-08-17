@@ -61,7 +61,7 @@ Due to HIPPA laws, we had to be mindful of our recruiting methods. We approached
 
 Unfortunately, we had a difficult time finding Spanish-speaking patients who had diabetes and used the internet.
 
-> "I'm sorry. None of my patients responded. Only 1 of the 17 secure messages sent were opened" - Kaiser
+> &ldquo;I'm sorry. None of my patients responded. Only 1 of the 17 secure messages sent were opened.&rdquo; - Kaiser
 > Permanente clinician.
 
 ## Rethinking the Study

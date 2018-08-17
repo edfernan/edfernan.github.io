@@ -91,6 +91,7 @@ blockquote {
   background-color: $light-grey;
   font-style: italic;
   p {
+    margin-top: 0;
     margin-bottom: $gap1;
     &:last-child {
       margin-bottom: 0;
