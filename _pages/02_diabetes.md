@@ -1,5 +1,5 @@
 ---
-layout: portEntry
+layout: none
 title: Live Well with Diabetes | User Testing and Secondary Research
 shortTitle: Live Well with Diabetes
 methods: User Testing | Secondary Research | Guerilla Interviews

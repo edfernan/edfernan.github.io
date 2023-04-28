@@ -25,6 +25,7 @@
 	<meta property="og:image" content="{{ page.image }}" />
 	{% endif %}
 
+	<!-- Fonts -->
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 	<link rel="preload" href="https://fonts.googleapis.com/css?family=Montserrat|Merriweather" as="style" onload="this.rel='stylesheet'">
 	<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat|Merriweather"></noscript>
@@ -35,16 +36,4 @@
 		/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
 		function(e){if(e.loadCSS){var t=loadCSS.relpreload={};if(t.support=function(){try{return e.document.createElement("link").relList.supports("preload")}catch(e){return!1}},t.poly=function(){for(var t=e.document.getElementsByTagName("link"),n=0;n<t.length;n++){var o=t[n];"preload"===o.rel&&"style"===o.getAttribute("as")&&(e.loadCSS(o.href,o,o.getAttribute("media")),o.rel=null)}},!t.support()){t.poly();var n=e.setInterval(t.poly,300);e.addEventListener&&e.addEventListener("load",function(){t.poly(),e.clearInterval(n)}),e.attachEvent&&e.attachEvent("onload",function(){e.clearInterval(n)})}}}(this);
 	</script>
-
-	{% if jekyll.environment == 'production' %}
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-44790261-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', 'UA-44790261-1');
-	</script>
-	{% endif %}
 </head>

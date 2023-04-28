@@ -1,5 +1,5 @@
 ---
-layout: portEntry
+layout: none
 title: Summer Search Bay Area Alumni Board | Workshops
 shortTitle: Summer Search Bay Area Alumni Board
 methods: Interviews | Strategy Workshops
