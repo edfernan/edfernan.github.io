@@ -6,10 +6,19 @@ description: Contact form for Eddie Fernandez, UX Researcher and Service Designe
 <div class="full-col align-center-horiz contact-page">
   <h1 class="styled-header entry-header">Contact Me</h1>
   <p>Message me here or email me at <span class="label">hola@eduardofernandez.me</span></p>
-  <form method="POST" action="http://formspree.io/hola@eduardofernandez.me">
-    <label for="name">Your Name <input type="text" name="name"></label>
-    <label for="_replyto">Your Email Address <input type="email" name="_replyto"></label>
-    <label for="message">Your Message<textarea name="message"></textarea></label>
-    <button type="submit" value="Send" class="btn-primary">Send</button>
-  </form>
+  <form
+  action="https://formspree.io/f/hola@eduardofernandez.me"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
 </div>
