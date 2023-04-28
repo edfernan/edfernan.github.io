@@ -4,7 +4,8 @@ title: Eddie Fernandez | UX Researcher and Service Designer
 description: Eddie Fernandez is a UX Researcher and Service Designer based in the Bay Area.
 ---
 <section class="full-col align-center-horiz max-text-width">
-  <p class="text1 center">&iexcl;Hola!</p>
+  <h1 class="styled-header">About Me</h1>
+  <a class="gap-bottom-large" href="https://www.linkedin.com/in/fernandezeduardo13/">View My Professional Experience on LinkedIn</a>
 
   <p>As a <em class="inline-em">Senior UX Researcher</em> with 10 years of industry expertise, I thrive in using research to develop effective strategies for 0-to-1 and existing products. With a diverse background conducting research in 9 different markets, I have honed my skills in handling complex projects that influence key business decisions across product and strategy.</p>
 
@@ -16,7 +17,7 @@ description: Eddie Fernandez is a UX Researcher and Service Designer based in th
   <p>Due to NDA agreements, the following work examples are from several years ago and more recent work cannot be displayed publicly. However, I would be happy to discuss them further in a private setting and share portfolio items that are not subject to similar restrictions.</p>
   {% for page in site.pages %} {% if page.layout == "portEntry" %}
     <div class="project">
-      <h2 class="project-title"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.shortTitle }}</a></h2>
+      <h2 class="project-title"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.shortTitle }} (2017)</a></h2>
       <div class="">
         <p><span class="label-block">Methods Used</span>{{ page.methods }}</p>
         <p>{{ page.description }}</p>

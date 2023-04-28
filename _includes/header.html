@@ -7,14 +7,15 @@
       {% else %}
         <li><a href="/">Work</a></li>
       {% endif %}
-
+      
+      <!-- Comment out
       {% if page.url == "/about/" %}
         <li><a href="{{ "/about" | prepend: site.baseurl }}" class="active">About</a></li>
       {% else %}
         <li><a href="{{ "/about" | prepend: site.baseurl }}">About</a></li>
       {% endif %}
 
-      <!-- Comment out
+      
       {% if page.url == "/blog/" %}
         <li><a href="{{ "/blog" | prepend: site.baseurl }}" class="active">Blog</a></li>
       {% else %}
